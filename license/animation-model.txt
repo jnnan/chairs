@@ -1,0 +1,55 @@
+STANDARD
+RENDERING STILL IMAGES AND ANIMATIONS FOR VIDEO PRODUCTION
+
+1. Notice to user
+This is a legal agreement between you (hereinafter referred to as "the Licensee") and AXYZ design. If you are entering into this agreement on behalf of your employer, the license granted and restrictions and limitations recited herein apply to your employer as well as to you as a representative of your employer. Should you cease working for your employer, your employer may continue to operate under this agreement.
+Upon opening an AXYZ design product, or receiving by any means (electronic or otherwise), you agree to accept and be bound by the terms and conditions of this agreement. Once the delivery has been received, there can be no refund. Products that were damaged or incompletely downloaded can be replaced for no fee.
+
+2. Copyright
+All computer software ("Software"), digital images ("Images"), 3D models (“Models”), printed materials (where applicable) and other files and materials received electronically or physically delivered (collectively the "Stock Media") is/are copyrighted. All rights to this Stock Media are owned and reserved by AXYZ design except to the extent that the right to use such material is specifically granted by this license. These rights are protected by Italian copyright laws, international treaty provisions and other applicable laws.
+
+3. Permitted uses
+By accepting this Agreement, AXYZ design grants the Licensee the following rights and uses:
+
+
+3.1. A non-exclusive, non-transferable, royalty-free license to use the Stock Media for the creation of Images: Rendering still images and animations for commercial and non-commercial purposes, e.g. for video production, broadcasting, print, movies, advertising, game intros, illustrations, presentations.
+3.2. The use of the Stock Media at one physical location by no more than three (3) individual users (provided that all three (3) are employed under contract to the licensee) per license unless otherwise specified in this Agreement. Companies or organizations that consist of multiple, physically separate offices/locations must purchase at least one (1) license per location where the Stock Media is to be used.
+3.3. A third party under the contract of the Licensee may make temporary copies of the Stock Media for the sole purpose of outputting a job (including network rendering and printing) provided by the Licensee. The Stock Media may be retained by the third party only for the period of time required to complete the contracted job and may not be used for any other job or purpose.
+3.4. The creation of one copy of the Stock Media for backup or archival purposes.
+
+4. Restrictions
+The specified restrictions include, but are not limited to the following:
+4.1. You may not sell, rent, loan, sublicense or otherwise transfer to anyone the Stock Media, or right to use the Stock Media (except insofar as stated above), and nothing you produce shall grant or purport to grant to any third party a right to use or duplicate the Stock Media.
+4.2. You may not publish or distribute the Images created with the Stock Media through another stock media clearinghouse infrastructure, for example as part of an online marketplace for photography, clip art, or design templates.
+4.3. Use of the Stock Media or any part thereof, as a trademark, service mark or business logo is not permitted.
+4.4. Pornographic, defamatory or libelous use or use that is otherwise unlawful is prohibited. If the Stock Media featuring a person is used in a manner that implies endorsement, use of, or a connection to a product or service by that model, or a potentially unflattering or controversial subject, you must print a statement that indicates that the person is a model and is used for illustrative purposes only.
+4.5. No Stock Media may be used to Resell or freely distribute AI training data sets derived either from the Stock Media or as pack of images or renders created using Stock Media products themselves.
+4.6. Resell or freely distributing AI training data sets derived either from the Stock Media or as pack of images or renders created using Stock Media products themselves.
+4.7. You may not use the Stock Media in a way that competes with AXYZ design Site or Stock Media products themselves.
+4.8. You may not misrepresent yourself as the creator of Stock Media products.
+4.9. No Stock Media may be sublicensed, resold or be redistributed in their original form or a form created solely to facilitate redistribution. For example only, and in no way limiting the foregoing, you may not place the Stock Media on an electronic bulletin board, within your software, web site or a form of on-line service.
+4.10. No Stock Media may be redistributed or resold, or modified versions of the Stock Media including, but not restricted to, portions of the Stock Media, as another graphics library or as another type of product which is similar to, or competes with, the Stock Media products.
+
+All other rights with respect to AXYZ design Stock Media not granted in this END USER LICENSE AGREEMENT are reserved to AXYZ design, who are the sole and exclusive copyright holders and no others.
+
+5. Disclaimer
+This software is provided “as is” and AXYZ design accepts no responsibility for any loss or damage, of any kind, resulting from the use, inability to use or otherwise misuse of this software. Where any kind of negligence on the part of aXYZ design can be proven to have resulted in loss of data, loss of earning, damage to business or any other indirect, incidental or consequential damage, in no event will aXYZ design be liable for a sum exceeding the purchase price of the software license. AXYZ design disclaims any and all warranties and representations of any kind regarding the subject matter of this agreement.
+
+6. Warraties
+You covenant, represent, and warrant to AXYZ design that:
+6.1. You have the full right, power, legal capacity, and authority to enter into and perform this agreement, have obtained any third-party consent needed to do so, and, prior to any Purchase, had an opportunity to seek independent legal counsel.
+6.2. You will not use Stock Media products except pursuant to the terms of this agreement. Should you use Stock Media products in an unauthorized way, you agree to any reasonable fee or penalty exercised by AXYZ design under this agreement or applicable law.
+6.3. You will, prior to Purchase, determine the need for and, if appropriate, obtain any needed third-party clearance, consent, or release to use Other-Party Intellectual Property shown in the digital rendering of Stock Media Products, and shall not use Stock Media Products to infringe any party’s Intellectual Property rights.
+6.4. You will immediately notify AXYZ design of any Intellectual Property claim against your use of Stock Media Products or any other rights issue, before disclosing such issue to any third-party.
+
+7. Links to Third-Party sites
+AXYZ design PROVIDES LINKS TO THIRD-PARTY SITES AS A CONVENIENCE TO YOU. AXYZ design DOES NOT CONTROL THIRD PARTY SITES OR LINKS TO THIRD PARTY SITES. AXYZ design IS NOT RESPONSIBLE FOR THE STOCK MEDIA OF ANY LINKED SITES. LINKS TO THIRD-PARTY SITES ARE NOT ENDORSEMENTS BY AXYZ design OF SUCH SITES.
+We hereby declare that we don't have any influence on the layout or the Stock Media of pages our links refer to. We, therefore, dissociate from and don't take any responsibility or liability for any Stock Media of the linked pages and files. This declaration is valid for all links placed on our web pages and is not limited to the specific Links Area. Please contact us in case you discover any illegal Stock Media in one of the pages our links refer to or if the page is permanently inaccessible, so we can remove the corresponding link. Thank you!
+
+8. Other legal information
+This agreement constitutes the entire agreement between you and AXYZ design. You agree that any material breach of these Terms will result in irreparable harm to AXYZ design for which damages would be an inadequate remedy and, therefore, in addition to its rights and remedies otherwise available at law, AXYZ design will be entitled to equitable relief, including both a preliminary and permanent injunction, if such a breach occurs. You waive any requirement for the posting of a bond or other security if AXYZ design seeks such an injunction.
+
+This agreement is governed by and construed in accordance with Italian laws. Any disputes that arise regarding the existence, interpretation, and enforcement of the contract will be deferred to Italian judicial authorities, and in particular exclusively to the Court of Verona. All notices, requests and other communications under this agreement must be in writing (e-mail messages shall be deemed writings).
+
+9. Trademarks
+MetroPoly®, The g(O)ng Sounds®, and anima® are registered trademarks of AXYZ design S.R.L. All product names are either trademarks or registered trademarks of AXYZ design S.R.L., or its affiliates or licensors. All rights reserved. All trademarks appearing on the service are trademarks of their respective owners.

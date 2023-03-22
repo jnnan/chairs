@@ -1,0 +1,29 @@
+Max Planck Society e.V as Licensor
+grants a
+
+SMPL-X BODY Creative Commons License
+ 
+
+SMPL-X: SMPL-eXpressive (hereinafter "SMPL-X Model") is a 3D representation of the human body that supports realistic changes in body, face and hands (hereinafter "body") shape and pose. SMPL-X Body is a subset of SMPL-X Model which excludes the shape blendshapes or the tools to create 3D bodies using the shape blendshapes of the SMPL-X Model. A SMPL-X Body contains a 3D mesh, a skeleton rig, pose blendshapes and dynamic blendshapes. A SMPL-X Body can be shared in the form of OBJ file(s), animated FBX file(s), or as a set of mesh vertices, skeleton rig, pose blendshapes and dynamic blendshapes in other appropriate 3D file formats.
+
+SMPL-X Body is licensed under the Creative Commons Attribution 4.0 International License. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. To view a copy of this license, visit:
+
+http://creativecommons.org/licenses/by/4.0/
+
+OR
+
+https://creativecommons.org/licenses/by/4.0/deed.de (GERMAN)
+
+The SMPL-X Model specification is a derivative of the SMPL Model specification (https://smpl.is.tue.mpg.de). The latter is defined in the granted US patent US10395411B2 (published on 2018-11-01 and 2019-08-27, granted on 2019-08-27) and the pending European EP3314577A1 (published on 2018-05-02) and World WO2016207311A1 (published on 2016-12-29) patent applications, "Skinned Multi-Person Linear Model". The Max Planck Society (MPG) owns the technology disclosed in these granted and pending patent applications.
+
+With this free CC-license, we want to encourage the adoption and use of SMPL-X Body and related file formats as a new Standard in 3D Body Modeling. The Grant of right qualifies as a donation under German law. As to § 521 Bürgerliches Gesetzbuch the donor is responsible only for intent and gross negligence.
+
+ 
+
+Attribution for Publications with SMPL-X Body
+You agree to cite the most recent paper describing the model as specified on the download website: https://smpl-x.is.tue.mpg.de This website lists the most up to date bibliographic information.
+
+ 
+
+Attribution for Media Projects with SMPL-X Body
+When using SMPL-X Body in a media project please give credit to Max Planck Institute for Intelligent Systems. For example: “SMPL-X Body was used for character animation courtesy of the Max Planck Institute for Intelligent Systems.”
