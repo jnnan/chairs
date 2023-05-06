@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 # Data Preparation
-Please download the sample data and weights from [this google drive link](https://drive.google.com/file/d/1ZfrfMWIVK_vh-3SbV1TswPje9VGENiNI/view?usp=sharing) and extract the zip file to the root directory of this repository.
+Please download the data and weights from [this link](https://forms.gle/t4SjmJS4RPx7AFvFA) and extract the zip file to the root directory of this repository.
 
 You need to download the SMPL-X models from [here](https://smpl-x.is.tue.mpg.de/download.php) and unzip them to `Data/body_models/smplx/`.
 
