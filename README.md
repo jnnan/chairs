@@ -50,47 +50,5 @@ Your directory should look like this:
 
 # Code
 
-## Reconstruction
-### Training the reconstruction model
-Run the following commands for training:
-```shell
-python train_voxel_pred.py
-```
-After the training is finished, the weight file will be stored in `./checkpoints/model_voxel_pred.pth`.
-### Testing the reconstruction model
-Run the following commands to extract mesh result:
-```shell
-python test_voxel_pred.py 
-```
-
-## HOI Prior
-
-### Training the HOI prior model
-The HOI Prior is the model for optimizing the part-level 6D pose of the articulated object under kinematics constraints. Run the following commands for training HOI prior:
-```shell
-python train_contrast_voxel_vae.py
-```
-After the training is finished, the weight file will be stored in `./checkpoints/cvae.pth`.
-
-### Optimization
-
-After training both the reconstruction model and the HOI prior model, optimize the object pose with `python optimize_cvae_part.py`. 
-
-Run the following commands for evaluation:
-```shell
-python optimize_cvae_part.py
-```
-
-Here we clarify the parameters in configuration.
-
-- `save_image`: Whether or not to save visualization of optimization process in gif.
-- `n_step`: the number of step in optimization.
-- `output_dir`: The save path of visualization outcomes.
-- `n_grid`: The resolution of voxelized object and human. The only resolution we support now is 64 (default value).
-- `lr`: the speed of gradient descent in optimization.
-- `prior_hidden`: the length of the hidden vector in HOI prior model.
-- `recon_hidden`: the length of the hidden vector in reconstruction model.
-
-
-
+Code updating.
 
