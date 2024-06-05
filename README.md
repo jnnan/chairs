@@ -4,6 +4,9 @@
 
 This is the code repository of **Full-Body Articulated Human-Object Interaction** - [pdf](https://arxiv.org/pdf/2212.10621.pdf) - [arxiv](http://arxiv.org/abs/2212.10621) - [project](https://jnnan.github.io/project/chairs) -
 
+# News
+The **metas.json** containing the transformation matrix between each camera view and the world coordinate is uploade (which can make the human and the object on the ground).
+
 
 # Environment
 We tested our code with CUDA 11.1, PyTorch 1.11.0, and torchvision 0.10.0. 
@@ -46,9 +49,4 @@ Your directory should look like this:
 ├─ dataloaders.py
     ...
 ```
-
-
-# Code
-
-Code updating.
 
